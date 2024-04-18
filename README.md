@@ -1,4 +1,7 @@
-# hello-world
+# hello-world / ToDo App
+
+## Screenshot
+![Screenshot ToDo App](src/assets/ss.png)
 
 ## Project setup
 ```
